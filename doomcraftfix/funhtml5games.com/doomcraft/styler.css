@@ -62,7 +62,7 @@ margin-bottom: 48px;
 @font-face
 {
 font-family: "arcade";
-src: url("media/fonts/arcade2.ttf");
+src: url("https://cdn.jsdelivr.net/gh/greeniYT/goobies-learning-fun-expirememnts@main/doomcraftfix/funhtml5games.com/doomcraft/media/fonts/arcade2.ttf");
 }
 
 #overlay
@@ -83,7 +83,7 @@ top:0px;
 left:0px;
 width:640px;
 height:480px;
-background:url(media/frontpage.jpg);
+background:url(https://cdn.jsdelivr.net/gh/greeniYT/goobies-learning-fun-expirememnts@main/doomcraftfix/funhtml5games.com/doomcraft/media/frontpage.jpg);
 font-size:20px;
 text-align:center;
 text-shadow:2px 2px #000;
@@ -107,7 +107,7 @@ width:640px;
 height:480px;
 font-size:20px;
 text-align:center;
-background-image:url(media/frontpage.jpg);
+background-image:url(https://cdn.jsdelivr.net/gh/greeniYT/goobies-learning-fun-expirememnts@main/doomcraftfix/funhtml5games.com/doomcraft/media/frontpage.jpg);
 display:none;
 }
 
@@ -144,7 +144,7 @@ cursor:pointer;
 .rating_bg
 {
 
-background-image:url(media/diamond.png);
+background-image:url(https://cdn.jsdelivr.net/gh/greeniYT/goobies-learning-fun-expirememnts@main/doomcraftfix/funhtml5games.com/doomcraft/media/diamond.png);
 background-size:25px;
 background-repeat:no-repeat;
 background-position:center;
@@ -160,7 +160,7 @@ top:58px;
 left:204px;
 width:162px;
 height:19px;
-background-image:url(media/healthmeter.png);
+background-image:url(https://cdn.jsdelivr.net/gh/greeniYT/goobies-learning-fun-expirememnts@main/doomcraftfix/funhtml5games.com/doomcraft/media/healthmeter.png);
 }
 
 #health_meter_bg
@@ -170,7 +170,7 @@ top:58px;
 left:204px;
 width:162px;
 height:19px;
-background-image:url(media/healthempty.png);
+background-image:url(https://cdn.jsdelivr.net/gh/greeniYT/goobies-learning-fun-expirememnts@main/doomcraftfix/funhtml5games.com/doomcraft/media/healthempty.png);
 }
 
 #ammo_div
@@ -339,7 +339,7 @@ top:0px;
 left:0px;
 width:640px;
 height:480px;
-background-image:url(media/frontpage.jpg);
+background-image:url(https://cdn.jsdelivr.net/gh/greeniYT/goobies-learning-fun-expirememnts@main/doomcraftfix/funhtml5games.com/doomcraft/media/frontpage.jpg);
 text-align:center;
 font-family:arcade;
 }
